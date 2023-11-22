@@ -121,7 +121,7 @@ Una clave primaria puede ser autoincremental o no, pero siempre tendrá dos requ
 Hace referencia a una Key de otra tabla
 
 ## 06 - EJEMPLO DE BASE DE DATOS Y TABLAS RELACIONADAS
-![Imagen de tabla relacional de Northwind](https://en.wikiversity.org/wiki/File:Northwind_E-R_Diagram.png)
+![Imagen de tabla relacional de Northwind](Northwind_E-R_Diagram.png)
 
 <a href='https://upload.wikimedia.org/wikiversity/en/thumb/a/ac/Northwind_E-R_Diagram.png/720px-Northwind_E-R_Diagram.png' target=_blank>Northwind.db</a>
 
