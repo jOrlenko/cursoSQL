@@ -123,7 +123,7 @@ Hace referencia a una Key de otra tabla
 ## 06 - EJEMPLO DE BASE DE DATOS Y TABLAS RELACIONADAS
 ![Imagen de tabla relacional de Northwind](https://en.wikiversity.org/wiki/File:Northwind_E-R_Diagram.png)
 
-<a href='https://en.wikiversity.org/wiki/Database_Examples/Northwind' target=_blank>Northwind.db</a>
+<a href='https://upload.wikimedia.org/wikiversity/en/thumb/a/ac/Northwind_E-R_Diagram.png/720px-Northwind_E-R_Diagram.png' target=_blank>Northwind.db</a>
 
 ## 07 - Order by
 Permite ordenar la tabla en referencia a una columna.
